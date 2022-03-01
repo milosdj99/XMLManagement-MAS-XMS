@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Items>
+  <Professors>
+    <Professor>
+      <jmbg>1111</jmbg>
+      <name>Marko</name>
+      <surname>Markovic</surname>
+    </Professor>
+     <Professor>
+      <jmbg>2222</jmbg>
+      <name>Zarko</name>
+      <surname>Zarkovic</surname>
+    </Professor>   
+  </Professors>
+  <Students>
+    <Student>
+      <jmbg>3333</jmbg>
+      <name>Ana</name>
+      <surname>Ancic</surname>
+      <index>PR-45/2013</index>
+    </Student>
+    <Student>
+      <jmbg>4444</jmbg>
+      <name>Lana</name>
+      <surname>Lanovic</surname>
+      <index>PR-55/2014</index>
+    </Student>
+  </Students>
+  <Subjects>
+    <Subject>
+      <id>1</id>
+      <name>SBES</name>
+      <espb>9</espb>
+    </Subject>
+    <Subject>
+      <id>2</id>
+      <name>IKP</name>
+      <espb>7</espb>
+    </Subject>
+  </Subjects>
+</Items>

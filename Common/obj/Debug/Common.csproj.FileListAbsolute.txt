@@ -1,0 +1,6 @@
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\Common\bin\Debug\Common.dll
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\Common\bin\Debug\Common.pdb
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\Common\obj\Debug\Common.dll
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\Common\obj\Debug\Common.pdb
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\Common\obj\Debug\Common.csproj.AssemblyReference.cache

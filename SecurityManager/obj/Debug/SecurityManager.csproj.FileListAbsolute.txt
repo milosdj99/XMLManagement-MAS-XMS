@@ -1,0 +1,11 @@
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\SecurityManager\bin\Debug\SecurityManager.dll
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\SecurityManager\bin\Debug\SecurityManager.pdb
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\SecurityManager\bin\Debug\Common.dll
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\SecurityManager\bin\Debug\Common.pdb
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\SecurityManager\obj\Debug\SecurityManager.csproj.AssemblyReference.cache
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\SecurityManager\obj\Debug\SecurityManager.AccessControlListFile.resources
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.cache
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\SecurityManager\obj\Debug\SecurityManager.csproj.CopyComplete
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\SecurityManager\obj\Debug\SecurityManager.dll
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT-STEFO\SBES_Team_13\SecurityManager\obj\Debug\SecurityManager.pdb
